@@ -1,0 +1,41 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Fira Code', monospace;
+      fill: #C0C0C0;
+      font-size: 28px;
+      white-space: pre;
+    }
+
+    .line1 {
+      overflow: hidden;
+      border-right: .15em solid #C0C0C0;
+      width: 0;
+      animation: typing1 2s steps(30, end) forwards;
+    }
+
+    .line2 {
+      overflow: hidden;
+      border-right: .15em solid #C0C0C0;
+      width: 0;
+      animation: typing2 2s steps(50, end) forwards;
+      animation-delay: 2.2s;
+    }
+
+    .line3 {
+      overflow: hidden;
+      border-right: .15em solid #C0C0C0;
+      width: 0;
+      animation: typing3 2.5s steps(60, end) forwards;
+      animation-delay: 4.5s;
+    }
+
+    @keyframes typing1 { to { width: 300px; } }
+    @keyframes typing2 { to { width: 650px; } }
+    @keyframes typing3 { to { width: 750px; } }
+  </style>
+
+  <text x="50" y="60" class="text line1">Hi, I am Arun</text>
+  <text x="50" y="110" class="text line2">AI/ML Engineer | Cybersecurity Enthusiast</text>
+  <text x="50" y="160" class="text line3">Building Real-Time Intelligent Systems</text>
+</svg>
