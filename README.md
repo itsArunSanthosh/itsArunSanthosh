@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
 <!--
 **itsArunSanthosh/itsArunSanthosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
