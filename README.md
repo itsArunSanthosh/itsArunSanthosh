@@ -1,30 +1,27 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/.github/assets/header.svg" />
+
+  <!-- Main Name (Glow Effect Simulation) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&pause=8000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Hi%2C+I+am+Arun" />
+
+  <!-- Role Line -->
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=8000&color=94A3B8&center=true&vCenter=true&width=1000&lines=AI%2FML+Engineer+%7C+Cybersecurity+Enthusiast" />
+
+  <!-- Tagline -->
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=8000&color=64748B&center=true&vCenter=true&width=1000&lines=Building+Real-Time+Intelligent+Systems" />
+
 </p>
 
-## About
+About
 
-- Background in **AI & Data Science**
-- Focused on **Machine Learning Systems + Cybersecurity**
-- Experience building **real-time, production-grade ML pipelines**
-- Interested in **Graph-based learning, anomaly detection, and system design**
+Background in AI & Data Science
+Focused on Machine Learning Systems + Cybersecurity
+Experience building real-time, production-grade ML pipelines
+Interested in Graph-based learning, anomaly detection, and system design
 
----
-
-## Featured Project
-
-### AI-Powered Network Intrusion Detection System (NIDS)
-
-A production-style system designed to detect malicious network activity in real-time using ML and Graph-based models.
-
-**Highlights:**
-- Multi-model ensemble with meta-learner  
-- Graph Neural Networks for multi-hop attack detection  
-- Real-time inference pipeline using Kafka + FastAPI  
-- Feature store integration (Feast) to handle training-serving skew  
-- Monitoring + alerting with Prometheus & Grafana  
-
----
 
 ## Tech Stack
 
@@ -61,6 +58,19 @@ A production-style system designed to detect malicious network activity in real-
   <img src="https://img.shields.io/badge/grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
 </p>
 
+---
+## Featured Project
+
+### AI-Powered Network Intrusion Detection System (NIDS)
+
+A production-style system designed to detect malicious network activity in real-time using ML and Graph-based models.
+
+**Highlights:**
+- Multi-model ensemble with meta-learner  
+- Graph Neural Networks for multi-hop attack detection  
+- Real-time inference pipeline using Kafka + FastAPI  
+- Feature store integration (Feast) to handle training-serving skew  
+- Monitoring + alerting with Prometheus & Grafana  
 ---
 
 ## Focus Areas
